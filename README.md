@@ -21,3 +21,4 @@ Strelok was developed and designed for Elementary OS, which is a Linux distribut
 
 ### Note
 I haven't actively developed this since leaving University - however, one day I will re-write it. There is "authentication" code currently, but it's easy enough to get around.
+Also note that this probably no longer works.
